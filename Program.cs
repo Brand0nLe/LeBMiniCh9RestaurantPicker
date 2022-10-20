@@ -74,11 +74,11 @@ if(option == "THREE")
 if(option == "HELP")
 {
     Random r = new Random();
-    int rInt = r.Next(0, 29);
+    int randomInt = r.Next(0, 29);
     Console.WriteLine("----------------------------------------");
     Console.WriteLine("You don't know what to eat? I'll help you choose!");
     Console.WriteLine("You should go to:");
-    Console.WriteLine(randomizer[rInt]);
+    Console.WriteLine(randomizer[randomInt]);
     Console.WriteLine("----------------------------------------\n");   
 }
 
