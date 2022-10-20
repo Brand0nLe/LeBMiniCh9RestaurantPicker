@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/LeBMiniCh9RestaurantPicker.csproj": {}
+    "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\LeBMiniCh9RestaurantPicker\\LeBMiniCh9RestaurantPicker.csproj": {}
   },
   "projects": {
-    "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/LeBMiniCh9RestaurantPicker.csproj": {
+    "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\LeBMiniCh9RestaurantPicker\\LeBMiniCh9RestaurantPicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/LeBMiniCh9RestaurantPicker.csproj",
+        "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\LeBMiniCh9RestaurantPicker\\LeBMiniCh9RestaurantPicker.csproj",
         "projectName": "LeBMiniCh9RestaurantPicker",
-        "projectPath": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/LeBMiniCh9RestaurantPicker.csproj",
-        "packagesPath": "/Users/brandonle/.nuget/packages/",
-        "outputPath": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/",
+        "projectPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\LeBMiniCh9RestaurantPicker\\LeBMiniCh9RestaurantPicker.csproj",
+        "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\LeBMiniCh9RestaurantPicker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brandonle/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
