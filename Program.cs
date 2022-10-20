@@ -84,10 +84,18 @@ if(option == "HELP")
 
     Console.WriteLine("Do you want to play again? (YES/NO)");
     userInputEnd = Console.ReadLine().ToUpper();
+    canParse =Int32.TryParse(userInputEnd, out validNum);
+    while(canParse == true)
+    {
+        Console.WriteLine("ERROR. INVALID ENTRY. CHOOSE YES OR NO.");
+        userInputEnd = Console.ReadLine();
+    }
+
 
 if(userInputEnd == "NO")
 {
     playAgain = false;
+    canParse = false;
     Console.WriteLine("Come back again when you need food suggestions!");
 }
 else
