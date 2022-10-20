@@ -1,0 +1,15 @@
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/bin/Debug/net6.0/LeBMiniCh9RestaurantPicker
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/bin/Debug/net6.0/LeBMiniCh9RestaurantPicker.deps.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/bin/Debug/net6.0/LeBMiniCh9RestaurantPicker.runtimeconfig.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/bin/Debug/net6.0/LeBMiniCh9RestaurantPicker.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/bin/Debug/net6.0/LeBMiniCh9RestaurantPicker.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.csproj.AssemblyReference.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.AssemblyInfoInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.AssemblyInfo.cs
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/refint/LeBMiniCh9RestaurantPicker.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.genruntimeconfig.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/ref/LeBMiniCh9RestaurantPicker.dll
