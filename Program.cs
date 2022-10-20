@@ -49,7 +49,14 @@ if(option == "ONE")
     Console.WriteLine("----------------------------------------\n");
     userInput = Console.ReadLine();
     canParse = Int32.TryParse(userInput, out validNum);
+    while(canParse == false)
+    {
+        Console.WriteLine("INVALID ENTRY! Please enter a number from 0 - 9:");
+        userInput = Console.ReadLine();
+        canParse = Int32.TryParse(userInput, out validNum);
+    }
     Console.WriteLine(asianFood[validNum]);
+
 }
 
 if(option == "TWO")
@@ -60,6 +67,12 @@ if(option == "TWO")
     Console.WriteLine("----------------------------------------\n");
     userInput = Console.ReadLine();
     canParse = Int32.TryParse(userInput, out validNum);
+    while(canParse == false)
+    {
+        Console.WriteLine("INVALID ENTRY! Please enter a number from 0 - 9:");
+        userInput = Console.ReadLine();
+        canParse = Int32.TryParse(userInput, out validNum);
+    }
     Console.WriteLine(fastFood[validNum]);
 }
 
@@ -71,6 +84,12 @@ if(option == "THREE")
     Console.WriteLine("----------------------------------------\n");
     userInput = Console.ReadLine();
     canParse = Int32.TryParse(userInput, out validNum);
+    while(canParse == false)
+    {
+        Console.WriteLine("INVALID ENTRY! Please enter a number from 0 - 9:");
+        userInput = Console.ReadLine();
+        canParse = Int32.TryParse(userInput, out validNum);
+    }
     Console.WriteLine(beverages[validNum]);
 }
 
@@ -87,11 +106,10 @@ if(option == "HELP")
 
     Console.WriteLine("Do you want to play again? (YES/NO)");
     userInputEnd = Console.ReadLine().ToUpper();
-    canParse =Int32.TryParse(userInputEnd, out validNum);
-    if(canParse == true)
+while (userInputEnd != "YES" && userInputEnd!= "NO")
     {
-        Console.WriteLine("ERROR. INVALID ENTRY. CHOOSE YES OR NO.");
-        userInputEnd= Console.ReadLine().ToUpper();
+        Console.WriteLine("INVALID ENTRY! Please enter YES or NO:");
+        userInputEnd = Console.ReadLine().ToUpper();
     }
 
 
@@ -100,7 +118,7 @@ if(userInputEnd == "NO")
     playAgain = false;
     Console.WriteLine("Come back again when you need food suggestions!");
 }
-else
+if(userInputEnd == "YES")
 {
     playAgain = true;
 }
