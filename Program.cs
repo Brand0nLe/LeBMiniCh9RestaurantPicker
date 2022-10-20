@@ -19,7 +19,7 @@ string [] beverages = {"T4", "Happy Lemon", "Jamba Juice", "Bober Tea", "Kung Fu
 string [] randomizer = {"Mama's Pho", "Green Papaya", "Komachi Sushi", "OZ Korean BBQ", "Bonchon", "Royal Siam", "M Sushi", "Tasty Pot", "Blue House Korean BBQ", "RAW Sushi Bistro", "McDonald's", "Taco Bell", "Wendy's", "Jack In The Box", "Popeye's", "Burger King", "Wingstop", "Sonic's", "Del Taco", "Raising Cane's", "T4", "Happy Lemon", "Jamba Juice", "Bober Tea", "Kung Fu Tea", "7 Leaves Cafe", "Purple Kow", "Boba Guys", "Sharetea", "Tea Dazed"};
 
 
-while (playAgain = true)
+while (playAgain == true)
 {
 Console.WriteLine("-------------------------------------------------------------------------------------------------------");
 Console.WriteLine("Welcome to the restaurant picker!");
@@ -29,7 +29,7 @@ Console.WriteLine("When you're feeling lazy choose HELP and we'll decide for you
 Console.WriteLine("-------------------------------------------------------------------------------------------------------\n");
 option = Console.ReadLine().ToUpper();
 
-while (option != "ONE" && option != "TWO" && option != "THREE" && option !="HELP")
+while (option != "ONE" && option != "TWO" && option != "THREE" && option != "HELP")
 {
     Console.WriteLine("----------------------------------------");
     Console.WriteLine("You entered an invalid choice, try again.");
@@ -85,15 +85,16 @@ if(option == "HELP")
     Console.WriteLine("Do you want to play again? (YES/NO)");
     userInputEnd = Console.ReadLine().ToUpper();
 
-if(userInputEnd == "YES")
-{
-    playAgain = true;
-}
-else
+if(userInputEnd == "NO")
 {
     playAgain = false;
     Console.WriteLine("Come back again when you need food suggestions!");
 }
+else
+{
+    playAgain = true;
+}
+
 
 
 
