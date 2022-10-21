@@ -4,17 +4,17 @@
 //This project will give the user 4 different array choices. Asian food, Fast food, Beverages, and a randomizer option. 
 //There are 10 options in each array for a total of 30 options when the user decides to use the help function to target a random integer from the randomizer array. 
 //There is a play again function and error messages for when the user input is not ONE, TWO, THREE, or HELP.
-
+//Peer Review: Harrison Busby - I really liked how Brandon did his code. It is organized well and is easy to read. I liked how when he did his Console.WriteLine()'s
+//he made almost boxes around what he was saying to the user, really interesting. If there was one thing
+//to nitpick it was that when you type a number bigger than the options given to you it throws an error but other than that I really liked it. Good Job Brandon! :)
 
 
 bool playAgain = true;
 string userInput;
 string userInputEnd;
-string num1;
 string option;
 int validNum;
 bool canParse = true;
-int indexRandom;
 
 string [] asianFood = {"Mama's Pho", "Green Papaya", "Komachi Sushi", "OZ Korean BBQ", "Bonchon", "Royal Siam", "M Sushi", "Tasty Pot", "Blue House Korean BBQ", "RAW Sushi Bistro"};
 string [] fastFood = {"McDonald's", "Taco Bell", "Wendy's", "Jack In The Box", "Popeye's", "Burger King", "Wingstop", "Sonic's", "Del Taco", "Raising Cane's"};
@@ -24,6 +24,7 @@ string [] randomizer = {"Mama's Pho", "Green Papaya", "Komachi Sushi", "OZ Korea
 
 while (playAgain == true)
 {
+    Console.Clear();
 Console.WriteLine("-------------------------------------------------------------------------------------------------------");
 Console.WriteLine("Welcome to the restaurant picker!");
 Console.WriteLine("You have 4 options: Asian Food, Fast Food, Beverages, or Help");
