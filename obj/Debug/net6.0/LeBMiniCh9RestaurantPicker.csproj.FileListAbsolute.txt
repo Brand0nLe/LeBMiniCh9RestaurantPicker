@@ -13,3 +13,18 @@
 /Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.pdb
 /Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/LeBMiniCh9RestaurantPicker.genruntimeconfig.cache
 /Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh9RestaurantPicker/obj/Debug/net6.0/ref/LeBMiniCh9RestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\bin\Debug\net6.0\LeBMiniCh9RestaurantPicker.exe
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\bin\Debug\net6.0\LeBMiniCh9RestaurantPicker.deps.json
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\bin\Debug\net6.0\LeBMiniCh9RestaurantPicker.runtimeconfig.json
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\bin\Debug\net6.0\LeBMiniCh9RestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\bin\Debug\net6.0\LeBMiniCh9RestaurantPicker.pdb
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\LeBMiniCh9RestaurantPicker.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\LeBMiniCh9RestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\LeBMiniCh9RestaurantPicker.AssemblyInfoInputs.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\LeBMiniCh9RestaurantPicker.AssemblyInfo.cs
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\LeBMiniCh9RestaurantPicker.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\LeBMiniCh9RestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\refint\LeBMiniCh9RestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\LeBMiniCh9RestaurantPicker.pdb
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\LeBMiniCh9RestaurantPicker.genruntimeconfig.cache
+C:\Users\harry\OneDrive\Desktop\Git Repositories\LeBMiniCh9RestaurantPicker\obj\Debug\net6.0\ref\LeBMiniCh9RestaurantPicker.dll
